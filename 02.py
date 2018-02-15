@@ -1,4 +1,4 @@
-alp = "k"
+alp = str(input(""))
 if alp in ("a,e,i,o,u"):
     print ("alp is a vowel")
 else:
